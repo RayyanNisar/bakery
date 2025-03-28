@@ -1,1 +1,1 @@
-# bakery
+# WELCOME PAGE
